@@ -1,30 +1,21 @@
-## google-web-stories-template
+# Your Favicon Package
 
-### Description
-This template provides a reference for creating and editing AMP Web Stories ([Google Stories](https://stories.google)). 
+This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
 
-### File Structure
+## Install instructions
 
-```text
-google-web-stories-template
-  ├── assets/
-  │   └──  images, video, audio for story
-  ├── bookend.json
-  ├── index.html  --- AMP Web Stories code w/ reference notes.
-  └── README.md
-```
+To install this package:
 
-### License
-This template is licensed under [Apache License, Version 2.0](https://github.com/ampproject/docs/blob/master/LICENSE).
+Extract this package in the root of your web site. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
 
-I have included notes at key points throughout the `index.html` file to help the user define excactly what AMP dictates must be present in order for a Web Story to qualify to appear in Google searches.
+Insert the following code in the `head` section of your pages:
 
-As of 6 October 2020, all qualifying Web Stories now have the potential to appear in the [Discover section of the Google app](https://blog.google/web-creators/web-stories-discover-search).
-Google has announced official support for the Web Stories format and plans to expand data analysis and advertising integrations accordingly.
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#da532c">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#1d2630">
 
-Developer docs from [AMP](https://amp.dev/documentation/guides-and-tutorials/?format=stories) and [Google](https://developers.google.com/search/docs/guides/enable-web-stories) provide additional details about creating and publishing Web Stories.
-
-Credit for these resources goes to [amp.dev](https://amp.dev/documentation/components/amp-story), where anyone who wishes to learn about Web Stories will find [Create Your First Web Story](https://amp.dev/documentation/guides-and-tutorials/start/visual_story/?format=stories), which is an interactive tutorial where you will build a template just like this one.
-
-### [View Live Version](https://killshot13.github.io/google-web-stories-template)
-_____________________________________________________
+*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
