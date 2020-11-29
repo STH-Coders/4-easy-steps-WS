@@ -1,0 +1,32 @@
+{
+  "name": "4-easy-steps-ws",
+  "version": "1.0.0",
+  "description": "AMP Web Story",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STH-Coders/4-easy-steps-WS.git"
+  },
+  "keywords": [
+    "AMP",
+    "HTML",
+    "'Web",
+    "Story'",
+    "'Google",
+    "Story'",
+    "Prettier"
+  ],
+  "author": "Safe This Home LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STH-Coders/4-easy-steps-WS/issues"
+  },
+  "homepage": "https://github.com/STH-Coders/4-easy-steps-WS#readme",
+  "devDependencies": {
+    "mj-pa": "1.0.0",
+    "prettier": "2.2.1"
+  }
+}
