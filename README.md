@@ -1,7 +1,10 @@
-## Four Easy Steps To Safer Browsing -- Web Story (Validated AMP)
+## Four Easy Steps To Safer Browsing -- A CyberBlade Production
 
--- brought to you by [Safe This Home](https://safethishome.com)
--- developed and maintained by [STH-Coders](https://github.com/STH-Coders)
+-- brought to you by [Safe This Home](https://safethishome.com) --
+-- developed and maintained by [STH-Coders](https://github.com/STH-Coders) --
 
-### A CyberBlade Production
+*Copyright 2020 Safe This Home*
+
+[Get the template](https://github.com/killshot13/google-web-stories-template) and publish your own Web Stories! 
+
 
