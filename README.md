@@ -1,6 +1,6 @@
 ## Four Easy Steps To Safer Browsing -- A CyberBlade Production
 
--- brought to you by [Safe This Home](https://safethishome.com) --<br></br>-- developed and maintained by [STH-Coders](https://github.com/STH-Coders) --
+-- published and licensed by [Safe This Home](https://safethishome.com) --<br></br>-- developed and maintained by [STH-Coders](https://github.com/STH-Coders) --
 ##
 
 *Copyright 2020 Safe This Home*
