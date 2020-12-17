@@ -13,13 +13,11 @@
   "keywords": [
     "AMP",
     "HTML",
-    "'Web",
-    "Story'",
-    "'Google",
-    "Story'",
+    "'Web Story'",
+    "'Google Story'",
     "Prettier"
   ],
-  "author": "Safe This Home LLC",
+  "author": "Safe This Home",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/STH-Coders/4-easy-steps-WS/issues"
